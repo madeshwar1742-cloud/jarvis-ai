@@ -1,0 +1,6 @@
+{
+  "name": "jarvis-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jarvis - a ChatGPT/Gemini-style AI chat website (static site + Vercel serverless function)"
+}
